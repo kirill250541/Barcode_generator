@@ -11,8 +11,7 @@
 ## 1.1 Генерация QR-кода
 
 Если пользователь выбрал генерацию QR-кода, то он может выбрать тип данных, который будет закодирован.  
-![gen_qr](../../../images
-/Activity/generate_qr_code.png)
+![gen_qr](../../../images/Activity/generate_qr_code.png)
 
 ## 1.2 Генерация EAN
 
