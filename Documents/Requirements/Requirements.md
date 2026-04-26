@@ -31,7 +31,7 @@
 
 На данном макете демонстрируется возможность выбора типа штрихкода.
 
-![barcode_type](../../tree/main/images/Mockups/barcode_type.png)
+![barcode_type](../../images/Mockups/barcode_type.png)
 
 * Пример генерации QR-кода
 
