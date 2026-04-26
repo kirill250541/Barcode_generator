@@ -31,7 +31,7 @@
 
 На данном макете демонстрируется возможность выбора типа штрихкода.
 
-![barcode_type]([https://github.com/kirill250541/Barcode_generator/blob/main/images/Mockups/barcode_type.png])
+![barcode_type](https://github.com/kirill250541/Barcode_generator/blob/main/images/Mockups/barcode_type.png)
 
 * Пример генерации QR-кода
 
