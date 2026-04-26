@@ -37,31 +37,31 @@
 
 На данном макете демонстрируется пример генерации QR-кода. Также демонстрируются возможности выбора формата получаемого изображения и скачивания полученного изображения со штрихкодом.
 
-![QR_code](../Mockups/QR_code.png)
+![QR_code](../../images/Mockups/QR_code.png)
 
 * Пример выбора типа кодируемой информации в QR-код
 
 На данном макете демонстрируется возможность выбора типа кодируемой информации в QR-код (такие же типы доступны для data matrix) 
 
-![QR_code_type](../Mockups/QR_code_type.png)
+![QR_code_type](../../images/Mockups/QR_code_type.png)
 
 * Пример генерации data matrix
 
 На данном макете демонстрируется пример генерации data matrix.
 
-![Data_matrix](../Mockups/Data_matrix.png)
+![Data_matrix](../../images/Mockups/Data_matrix.png)
 
 * Пример выбора типа EAN
 
 На данном макете демонстрируется возможность выбора типа EAN 
 
-![EAN_type](../Mockups/EAN_type.png)
+![EAN_type](../../images/Mockups/EAN_type.png)
 
 * Пример генерации EAN
 
 На данном макете демонстрируется пример генерации EAN-13.
 
-![Mockups](../Mockups/EAN.png)
+![Mockups](../../images/Mockups/EAN.png)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 
